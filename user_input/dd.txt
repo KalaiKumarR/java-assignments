@@ -1,0 +1,21 @@
+Google currently uses Machine Learning so that we can understand the full scope of its applications in the future.
+![https://media.geeksforgeeks.org/wp-content/uploads/20190924180818/RankBrain1.png]
+1. Google Assistant :
+It is basically a personal assistant that is enabled using a combination of Google Knowledge Graph, Image Recognition, and Natural Language Processing.
+![](url to embed)
+
+2. DeepDream:
+DeepDream uses the convolutional neural networks to find random patterns in various images and amplifies them in different ways. These images can be tweaked in any possible manner using the input data and various parameters so that the results obtained can be funny, weird or even trippy!!!
+There are multiple layers in the neural networks in DeepDream wherein each layer extracts more and more high-level features from the input image until the final output is produced by the end layer. To demonstrate this, we have an image from Google DeepDream that is a weird hybrid of a woman and lots of gears
+
+3. RankBrain
+Suppose you want to know who is the CEO of Google? And then you want to know who is his wife? But how do you search this on Google? You cannot exactly write the name of Sundar Pichai or his wife since you don’t know it! In this case, you can simply search “CEO of google wife” on Google and you will get the required results. This is achieved using RankBrain in Google Search.
+RankBrain is basically a deep neural network that is helpful in providing the required search results. It is one of the factors in the Google Search algorithm that determines which search pages are displayed. In case there are any unique words or phrases on Google Search (like “CEO of google wife” in our case!) then RankBrain makes intelligent guesses to find which search results fit the situation and filter them accordingly. In fact, RankBrain is currently so important that Google says it is its third most important page ranking factor for the results of a search query.
+
+4. Google Translate
+Want to translate a text from English to Hindi but don’t know Hindi? Well, Google Translate is the tool for you! While it’s not exactly 100% accurate, it is still a great tool to convert text, images, or even real-time video from one language to another. And in case you wonder how it translates more or less accurately, well Google Translate uses Machine Learning of course!
+It uses Statistical machine translation (SMT) which is a fancy way of saying that it analyses millions of documents that are already translated from one language to another (English to Hindi in this case) and then looks for the common patterns and basic vocabulary of the language. After that, it picks the most accurate translation possible based on educated guesses that mostly turn out to be correct. For Example: Let’s see how Google Translate translates “Machine Learning is cool” into Hindi!!!
+
+5. Google Photos
+In case you are a millennial, I am sure you are a selfie addict! And of course, you use Google Photos a lot if you are an Android user as well. And it’s no shock that you do! Google Photos allows you to back up all your photos in a single location even if they were shot from multiple devices and it also offers lots of other cool effects using Machine Learning.
+For Example, Google Photos also automatically creates albums of photos taken during a specific period without any input from you. And that’s not all, it can also select the “best photos”. And in case you haven’t sorted all your pictures into albums, you can also search for them by typing in names. Suppose you want to find a picture with your dog, type in “Dog” and you will get all the dog pictures! This is done using Image Recognition, wherein Deep Learning is used to sort millions of images on the internet in order to classify them more accurately. So using Deep Learning, the images that are classified as “Dog” in your Google Photos are displayed.
